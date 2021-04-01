@@ -8,6 +8,10 @@ Our goal is to develop and deploy cloud-based ensemble machine learning models t
 
 ## Usage
 
+- Clone the GitHub repository
+- From project root directory, navigate to notebooks folder and open rainfall_analysis.ipynb
+- Click on the `Run` menu and then click on `Run All Cells`
+
 ## Dependencies
 
 ```
@@ -19,6 +23,7 @@ Our goal is to develop and deploy cloud-based ensemble machine learning models t
 * pyarrow
 * dplyr
 ```
+> Please note that this notebook is resource intensive and may not run on some machines
 
 ## Contributors
 
