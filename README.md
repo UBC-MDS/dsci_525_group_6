@@ -1,4 +1,4 @@
-# raynMan (Need a project name, up for discussion!)
+# raynMan
 
 Using big data to predict daily Australian rainfall!
 
@@ -33,11 +33,11 @@ Group 6 Members:
 * Debananda Sarkar - @debanandasarkar
 * Kevin Shahnazari - @kshahnazari1998
 
-## Attributions
+## Attributions  
 
-MDS DSCI 525 Instructor Gittu George - @ggeorg02
-Data compiled by MDS Instructor Tom Beuzen - @tbeuzen
+MDS DSCI 525 Instructor Gittu George - @ggeorg02  
+Data compiled by MDS Instructor Tom Beuzen - @tbeuzen  
 
-Modelled data provided by CMIP6: https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6
-Data is supported by the Pangeo project: https://pangeo-data.github.io/pangeo-cmip6-cloud/
+Modelled data provided by CMIP6: https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6  
+Data is supported by the Pangeo project: https://pangeo-data.github.io/pangeo-cmip6-cloud/  
 Observed data is supplied by the Australian SILO database: https://www.longpaddock.qld.gov.au/silo/
